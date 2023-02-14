@@ -93,12 +93,6 @@
     width: 65vh;
 }
 
-.row-3{
-    display: flex;
-    justify-content: space-between;
-    width: 65vh;
-}
-
 .sub-box{
     display: flex;
     flex-direction: column;
