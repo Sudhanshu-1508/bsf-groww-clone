@@ -205,3 +205,77 @@
 }
 
 
+.middle8{
+    background-color: #f6f6f7;
+}
+
+.cpi{
+    color: #44475B;
+    font-size: 36px;
+    font-weight: 450;
+    padding-left: 230px;
+    padding-top: 40px;
+}
+
+.below-cpi{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    font-size: 18px;
+    color: #44475B;
+}
+
+.f2 a{
+    color: #00d09c;
+    text-decoration: none;
+}
+
+.checked{
+    color: orange;
+}
+
+.l1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width:max-content;
+
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.card1{
+    background-color: white;
+    width: 25%;
+    padding: 35px 35px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    height: 100vh;
+}
+
+.image img{
+    height: 80px;
+    width: 80px;
+    margin: 0 30px 0 0;
+    border-radius: 100px;
+}
+
+.desc{
+    margin: 25px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #44475B;
+}
+
+.uname{
+    margin: 25px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #44475B;
+}
